@@ -1,0 +1,7 @@
+1. Open cmd (windows button, "cmd")
+2. Type c:
+3. Type cd C:\Users\hliangji\ChessCoach\ChessCoach-v2.0
+4. Type the following (can paste 2 lines together)
+py -m pip install -r requirements.txt
+py web_app.py
+5. Open browser and set to http://127.0.0.1:5000
